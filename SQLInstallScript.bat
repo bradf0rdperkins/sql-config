@@ -1,0 +1,1 @@
+Setup.exe /ACTION="CompleteImage" /ConfigurationFile=ConfigurationFile.INI /IAcceptSQLServerLicenseTerms /SQLSVCACCOUNT="MyDomain\MyAccount" /SQLSVCPASSWORD="************" /AGTSVCACCOUNT="MyDomain\MyAccount" /AGTSVCPASSWORD="************" /SAPWD="password"
